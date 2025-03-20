@@ -7,9 +7,9 @@ This project performs analysis on IPL (Indian Premier League) data using Python.
 
 The analysis is performed using two CSV files:
 
-matches.csv - Contains match-level details including match ID, season, teams, venue, and match results.
+matches.csv(https://raw.githubusercontent.com/PrakharSinha21/IPL-EDA/refs/heads/main/matches.csv) - Contains match-level details including match ID, season, teams, venue, and match results.
 
-deliveries.csv - Contains ball-by-ball details including batsman runs, balls faced, bowler details, dismissals, and match ID.
+deliveries.csv(https://github.com/PrakharSinha21/IPL-EDA/blob/main/deliveries.zip) - Contains ball-by-ball details including batsman runs, balls faced, bowler details, dismissals, and match ID.
 
 ## Features
 - Data Cleaning & Preprocessing
