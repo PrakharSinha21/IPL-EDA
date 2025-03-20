@@ -1,4 +1,4 @@
-# IPL Batsman Performance Analysis
+# IPL Performance Analysis
 
 ## Project Overview
 This project performs analysis on IPL (Indian Premier League) data using Python. It explores various insights such as team performance, player statistics, and match trends.
